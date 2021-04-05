@@ -1,7 +1,7 @@
 # site settings
 title: About Me
 subtitle: by MH
-email: test@gmail.com
+email: payphone80248@gmail.com
 description: test<br /> test test.
 baseurl: "/MH" # the subpath of your site, e.g. /blog
 url: "https://stegoho.github.io" # the base hostname & protocol for your site
