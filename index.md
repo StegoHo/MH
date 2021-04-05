@@ -5,7 +5,8 @@ landing-title: Hi, it's Meng-Hsuan
 description: null
 image: null
 author: null
-nav-menu: false
+nav-menu: true
+show_tile: true
 ---
 
 First Page. <br>
