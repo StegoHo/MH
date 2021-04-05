@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All Posts'
+title: All Posts
+landing-title: All Posts
 nav-menu: true
 description: null
 image: assets/images/DSC_3790.jpg
