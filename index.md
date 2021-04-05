@@ -6,7 +6,7 @@ description: null
 image: null
 author: null
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
 First Page. <br>
