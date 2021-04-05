@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, it's Meng-Hsuan'
+landing-title: Hi, it's Meng-Hsuan
 description: null
 image: null
 author: null
