@@ -1,5 +1,6 @@
 ---
 title: About me
+landing-title: About me
 layout: landing
 description: Learn more about me
 image: assets/images/pic07.jpg
