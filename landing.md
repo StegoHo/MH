@@ -1,6 +1,6 @@
 ---
 title: About me
-layout: About me
+layout: landing
 description: Learn more about me
 image: assets/images/pic07.jpg
 nav-menu: true
