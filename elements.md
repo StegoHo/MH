@@ -3,6 +3,7 @@ layout: page
 title: Elements
 image: assets/images/DSC_9359.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
