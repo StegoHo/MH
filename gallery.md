@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Gallery
 image: assets/images/DSC_9359.jpg
 description: Photography
