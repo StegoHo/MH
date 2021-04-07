@@ -6,5 +6,3 @@ description: Photos shot by me
 nav-menu: true
 show_tile: true
 ---
-
-some pics shot by me!
