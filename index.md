@@ -9,5 +9,4 @@ nav-menu: true
 show_tile: false
 ---
 
-First Page. <br>
-Should be some introduction and pictures, I suppose
+Hi there. This is the place I share my tech and views. Feel free to leave messages below. Thanks!
