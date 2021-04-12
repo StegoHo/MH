@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Résumé
 description: a short written description of myself
 image: assets/images/DSC_4542.jpg
