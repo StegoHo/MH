@@ -1,8 +1,8 @@
 # site settings
-title: About Me
-subtitle: by MH
+title: MH's site
+subtitle: Data & Photos
 email: Send me messages through boxes on left
-description: 
+description: (255, 255, 255)
 baseurl: "/MH" # the subpath of your site, e.g. /blog
 url: "https://stegoho.github.io" # the base hostname & protocol for your site
 author:
