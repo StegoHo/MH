@@ -3,7 +3,7 @@ title: About Me
 landing-title: About Me
 layout: landing
 description: Learn more about me
-image: assets/images/pic07.jpg
+image: assets/images/IMG_4210.jpg
 nav-menu: true
 show_tile: true
 ---
