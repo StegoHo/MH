@@ -14,7 +14,7 @@ Typical view up on the mountain.
 ![mountain](/assets/images/banner.jpg)
 
 A deer looking for food.
-![deer](/assets/images/DSC_1195.jpg)
+![deer](/assets/images/DSC_4542.jpg)
 
 Shadow of the leaves on a stone.
 ![shadow](/assets/images/DSC_4840.jpg)
