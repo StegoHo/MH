@@ -8,7 +8,7 @@ show_tile: true
 ---
 
 Shot during drought in Taiwan. Supposed to fill with water. 
-![Shot during drought inside a dam](/assets/images/_DSC7094.jpg)
+![drought](/assets/images/_DSC7094.jpg)
 
 Typical view up on the mountain.
 ![mountain](/assets/images/banner.jpg)
