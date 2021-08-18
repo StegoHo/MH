@@ -15,9 +15,9 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>One</h2>
+			<h2>Me</h2>
 		</header>
-		<p>bla bla bla</p>
+		<p>Hi! My name is Meng-Hsuan Ho. You could call me Stego [stay-go] if you find it easier to pronouce. I'm currently studying Business Analytics for Master in Arizona State University. Feel free to message me from the box below to talk about anything interesting.</p>
 	</div>
 </section>
 
@@ -25,14 +25,14 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/Me.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Two</h3>
+					<h3>Something about me</h3>
 				</header>
-				<p>bla bla bla				</p>
+				<p>I like to watch baseball instead of playing them. </p>
 				<ul class="actions">
 					<li><a href="resume.html" class="button">Learn more</a></li>
 				</ul>
