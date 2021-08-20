@@ -17,7 +17,7 @@ show_tile: true
 		<header class="major">
 			<h2>Me</h2>
 		</header>
-		<p>Hi! My name is Meng-Hsuan Ho. You could call me Stego [stay-go] if you find it easier to pronouce. I'm currently studying Business Analytics for Master in Arizona State University. Feel free to message me from the box below to talk about anything interesting.</p>
+		<p>Hi! My name is Meng-Hsuan Ho and I'm from Tawian. You could call me Stego [stay-go] if you find it easier to pronouce. I'm currently studying Business Analytics for Master in Arizona State University. Feel free to message me from the box below to talk about anything interesting.</p>
 	</div>
 </section>
 
@@ -32,9 +32,13 @@ show_tile: true
 				<header class="major">
 					<h3>Something about me</h3>
 				</header>
-				<p>I like to watch baseball instead of playing them. </p>
+				<p>I like to watch baseball. The interest starts when a Taiwanese pitcher, Chien-Ming Wang shines for a couple years in MLB. Instead of playing it, I prefer to watch it and analyze it through data. 
+				</p>
+				<p>
+				Also, I like to explore and record things through camera. Sometimes, I go hinking or go to ruins to search for ideas for pictures. I filmed all the photos posted on this website, mostly about landscape, still working on portrait though.
+				</p>
 				<ul class="actions">
-					<li><a href="resume.html" class="button">Learn more</a></li>
+					<li><a href="resume.html" class="button">For more proficient side of me</a></li>
 				</ul>
 			</div>
 		</div>
