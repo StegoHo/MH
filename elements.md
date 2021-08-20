@@ -2,7 +2,7 @@
 layout: page
 title: Elements
 image: assets/images/DSC_9359.jpg
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
