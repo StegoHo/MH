@@ -35,7 +35,7 @@ show_tile: true
 				<p>I like to watch baseball. The interest starts when a Taiwanese pitcher, Chien-Ming Wang shines for a couple years in MLB. Instead of playing it, I prefer to watch it and analyze it through data. 
 				</p>
 				<p>
-				Also, I like to explore and record things through camera. Sometimes, I go hinking or go to ruins to search for ideas for pictures. I filmed all the photos posted on this website, mostly about landscape, still working on portrait though.
+				Also, I like to explore and record things through camera. Sometimes, I go hiking or go to ruins to search for ideas for pictures. I filmed all the photos posted on this website, mostly about landscape, still working on portrait though.
 				</p>
 				<ul class="actions">
 					<li><a href="resume.html" class="button">For more proficient side of me</a></li>
