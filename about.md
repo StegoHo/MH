@@ -17,7 +17,7 @@ show_tile: true
 		<header class="major">
 			<h2>Me</h2>
 		</header>
-		<p>Hi! My name is Meng-Hsuan Ho and I'm from Tawian. You could call me Stego [stay-go] if you find it easier to pronouce. I'm currently studying Business Analytics for Master in Arizona State University. Feel free to message me from the box below to talk about anything interesting.</p>
+		<p>Hi! My name is Meng-Hsuan Ho and I'm from Tawian. You could call me Stego [stay-go] if you find it easier to pronouce. I'm currently studying Business Analytics for Master in Arizona State University, looking forward to becoming a Data Analyst one day. Feel free to message me from the box below to talk about anything interesting.</p>
 	</div>
 </section>
 
