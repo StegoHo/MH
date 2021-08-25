@@ -26,6 +26,8 @@ While finishing the transformation, some distance data could be obtained. On the
 
 ![Example](assets/images/MamaFisch.mp4)
 
-```
-
-```
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="assets/images/MamaFisch_Moment.jpg">
+    <source src="assets/images/MamaFisch.mp4" type="MamaFisch/mp4">
+  </video>
+</figure>
