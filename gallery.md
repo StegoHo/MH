@@ -7,10 +7,10 @@ nav-menu: true
 show_tile: true
 ---
 
-<p align="center">
-Shot on the A Mountain in the ASU. <br />
+<div align="center">
+Shot on the A Mountain in the ASU.
 <img src="/assets/images/DSC_8479.jpg" style="width:1000px">
-</p>
+</div>
 
 <p align="center">
 Shoes hanging on the electric wire. <br />
