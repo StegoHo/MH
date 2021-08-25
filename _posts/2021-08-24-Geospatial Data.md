@@ -1,4 +1,11 @@
-Geospatial data Analytics could come in handy when dealing with B2C corporations. Lots of companies possess geodata such as zip codes, addresses, or even GPS data from electronic devices. Hence, utilizing the data could be the key to understanding the pros and cons for the business.
+---
+layout: page
+title: Geospatial Data Analytics
+description: Geospatial Data Analytics
+image: 
+---
+
+Geospatial Data Analytics could come in handy when dealing with B2C corporations. Lots of companies possess geodata such as zip codes, addresses, or even GPS data from electronic devices. Hence, utilizing the data could be the key to understanding the pros and cons for the business.
 
  
 
