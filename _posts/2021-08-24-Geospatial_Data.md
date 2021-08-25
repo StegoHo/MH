@@ -31,3 +31,6 @@ While finishing the transformation, some distance data could be obtained. On the
     <source src="assets/images/MamaFisch.mp4" type="MamaFisch/mp4">
   </video>
 </figure>
+
+<a href="{assets/images/MamaFisch.mp4}" title="Example"><img src="{assets/images/MamaFisch_Moment.jpg}" alt="Text" /></a>
+
