@@ -32,7 +32,7 @@ def geocode(address):
 While finishing the transformation, some distance data could be obtained. On the other hand, packages such as folium could be very useful when visualizing it. Here is one easy example for some of the stores of MamaFisch in Taiwan. Users can scroll and drag intuitively and information can be looked up in hover and pop up.
 
 <center>
-<video width="1280" height="720" controls>
+<video width="720" height="405" controls>
   <source src="assets/images/MamaFisch.mp4" type="video/mp4">
 </video>
 </center>
