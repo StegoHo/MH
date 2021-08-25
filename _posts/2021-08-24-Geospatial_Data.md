@@ -27,3 +27,8 @@ While finishing the transformation, some distance data could be obtained. On the
 
 <a href="{assets/images/MamaFisch.mp4}" title="Example"><img src="{assets/images/MamaFisch_Moment.jpg}" alt="Examples for folium" /></a>
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="assets/images/MamaFisch_Moment.jpg">
+    <source src="assets/images/MamaFisch.mp4" type="mp4">
+  </video>
+</figure>
