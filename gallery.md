@@ -8,8 +8,8 @@ show_tile: true
 ---
 
 <div align="center">
-Shot on the A Mountain in the ASU.
-<img src="/assets/images/DSC_8479.jpg" style="width:1000px">
+Shot on the A Mountain in the ASU. <br />
+<img src="/assets/images/DSC_8479.jpg">
 </div>
 
 <p align="center">
