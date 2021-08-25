@@ -7,8 +7,9 @@ nav-menu: true
 show_tile: true
 ---
 
-<center>
+
 Shot on the A Mountain in the ASU. <br />
+<center>
 ![amountain](/assets/images/DSC_8479.jpg){:width="1000px"}
 </center>
 
