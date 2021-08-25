@@ -18,7 +18,7 @@ Shoes hanging on the electric wire. <br />
 </p>
 
 Shot during drought in Taiwan. Supposed to fill with water. <br />
-![drought](/assets/images/DSC_7094.jpg){:width="1000px"}
+![drought](/assets/images/DSC_7094.jpg?style=centerme){:width="1000px"}
  
 Typical view up on the mountain. <br />
 ![mountain](/assets/images/banner.jpg){:width="1000px"}
