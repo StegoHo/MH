@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: true
 ---
 
-
+<center>
 Shot during drought in Taiwan. Supposed to fill with water. <br />
 ![drought](/assets/images/DSC_7094.jpg){:width="1000px"}
 
@@ -25,3 +25,5 @@ Sunlight on Ali mountain. <br />
 
 Fushimi Inari-taisha <br />
 ![shrine](/assets/images/IMG_4210.jpg){:width="1000px"}
+  
+ </center>
