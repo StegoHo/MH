@@ -14,7 +14,7 @@ Shot on the A Mountain in the ASU. <br />
 
 
 Shoes hanging on the electric wire. <br />
-![shoes](/assets/images/DSC_8290.jpg){:width="1000px"}
+<img src="/assets/images/DSC_8290.jpg" style="width:1000px">
 
 Shot during drought in Taiwan. Supposed to fill with water. <br />
 ![drought](/assets/images/DSC_7094.jpg){:width="1000px"}
