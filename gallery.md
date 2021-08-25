@@ -9,9 +9,9 @@ show_tile: true
 
 
 Shot on the A Mountain in the ASU. <br />
-<center>
-![amountain](/assets/images/DSC_8479.jpg){:width="1000px"}
-</center>
+<p align="center">
+<img src="/assets/images/DSC_8479.jpg" style="width:1000px">
+</p>
 
 <center>
 Shoes hanging on the electric wire. <br />
