@@ -32,5 +32,5 @@ While finishing the transformation, some distance data could be obtained. On the
   </video>
 </figure>
 
-<a href="{assets/images/MamaFisch.mp4}" title="Example"><img src="{assets/images/MamaFisch_Moment.jpg}" alt="Text" /></a>
+<a href="{assets/images/MamaFisch.mp4}" title="Example"><img src="{assets/images/MamaFisch_Moment.jpg}" alt="Examples for folium" /></a>
 
