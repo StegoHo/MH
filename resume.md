@@ -22,7 +22,7 @@ nav-menu: true
 	</section>
     </div>
 	<section id="EDUCATION">
-		<div class="inner" markdown="1">
+	<div class="inner" markdown="1">
 			
 ## <u>EDUCATION</u>
 
@@ -39,10 +39,11 @@ nav-menu: true
   - Minor in Economics
   - Relevant Coursework: Programming for Business Computing, Data Science Programming, R Language and Text Mining: An Application of Public Issues, Using R for Data Analysis, Administrative information Management, Statistics and Econometrics with Recitation, Macroeconomics, Microeconomics, Economics, Public Policy, Accounting
 				
-		</div>	
+	</div>	
 	</section>
 	<section id="PROFESSIONAL" >
-		<div class="inner" markdown="1">
+	<div class="inner" markdown="1">
+
 ## <u>PROFESSIONAL EXPERIENCE</u>
 
 #### Data Analyst, WELLTECH SEMICONDUCTOR INC
@@ -61,10 +62,11 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Represented my school to receive and assist professors and guests from all over the world
  - Assisted and collaborated with others for international conference taken place in National Taiwan University
 		
-		</div>	
+	</div>	
 	</section>
 	<section id="PROJECT" >
-		<div class="inner" markdown="1">		
+	<div class="inner" markdown="1">	
+
 ## <u>PROJECT EXPERIENCE</u>
 
 #### Dashboard Building
@@ -84,10 +86,10 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Integrated customers data with government’s data such as region’s income median to learn possibilities of success in each region
  - Calculated distances of every customer to stores to research different types of customers in different stores
 			
-		</div>	
+	</div>	
 	</section>
 	<section id="LEADERSHIP" >
-		<div class="inner" markdown="1">	
+	<div class="inner" markdown="1">	
 			
 ## <u>LEADERSHIP AND COMMUNITY INVOLVEMENT</u>
 
@@ -98,10 +100,10 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Led a 15 people team to hold several extra-curricular activities (the movie festival has four-fold increase in participators than last year)
  - Managed over 1 million NT dollar budget and solved matters from NTU’s students (33,000 in total)
 
-		</div>	
+	</div>	
 	</section>
 	<section id="SKILLS" >
-		<div class="inner" markdown="1">	
+	<div class="inner" markdown="1">	
 			
 ## <u>SKILLS & ACTIVITIES</u>
 
@@ -110,6 +112,6 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Computer Skills: Python (Pandas, Folium, SKLearn, Seaborn, Bokeh, Selenium), R, Microsoft Office
  - Technical Skills: Customer Segmentation Analysis, Geospatial Analysis, Visualization, Machine Learning
  - Interests: Photography, Baseball, Hiking
-		</div>	
+	</div>	
 	</section>
 </div>
