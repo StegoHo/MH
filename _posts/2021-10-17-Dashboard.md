@@ -30,4 +30,8 @@ The code is revised from the example provided by [Bokeh](https://github.com/boke
 
 The video below would demonstrate how Bokeh server would eventually work on the user end.
 
-![Example](assets/images/2021-10-17_Dashboard.mp4)
+<center>
+<video width="720" height="405" controls>
+  <source src="assets/images/2021-10-17_Dashboard.mp4" type="video/mp4">
+</video>
+</center>
