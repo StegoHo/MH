@@ -22,7 +22,7 @@ Besides chart, there are lots of interactive buttons and functions that can be s
 
 Dashboard created by Bokeh can look as beautiful as modern website this day. It supports examples on Bootstrap and awesome icons which come in handy when decorating the website. The picture below would provide some examples using both both Bootstrap and icons to decorate the interface.
 
-![designed interface](\assets\images\2021-10-17_Dashboard.png)
+![designed interface](assets/images/2021-10-17_Dashboard.png)
 
 The code is revised from the example provided by [Bokeh](https://github.com/bokeh/bokeh/tree/branch-3.0/examples/app/dash).
 
@@ -30,4 +30,4 @@ The code is revised from the example provided by [Bokeh](https://github.com/boke
 
 The video below would demonstrate how Bokeh server would eventually work on the user end.
 
-![Example](\assets\images\[2021-10-17_Dashboard.mp4])
+![Example](assets/images/2021-10-17_Dashboard.mp4)
