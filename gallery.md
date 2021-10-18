@@ -6,7 +6,9 @@ description: Photos shot by me
 nav-menu: true
 show_tile: true
 ---
-
+<div id="main">
+	<div class="inner" markdown="1">
+  
 Shot on the A Mountain in the ASU. <br />
 ![amountain](/assets/images/DSC_8479.jpg){:width="1000px"}
 
@@ -31,4 +33,5 @@ Sunlight on Ali mountain. <br />
 Fushimi Inari-taisha <br />
 ![shrine](/assets/images/IMG_4210.jpg){:width="1000px"}
 
-
+  </div>
+</div>
