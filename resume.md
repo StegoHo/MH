@@ -8,17 +8,20 @@ nav-menu: true
 
 
 <div id="main">
-<div class="inner" markdown="1">
 <section id="name" >
+<div class="inner" markdown="1">
+
 		
 # <center>Meng-Hsuan Ho</center>
 - [Website](https://stegoho.github.io/MH/)
 - [Linkedin](www.linkedin.com/in/mh-ho)
 
+
+</div>	
 </section>
-</div>		
-<div markdown="1">
 <section id="EDUCATION">
+<div markdown="1">
+
 	
 			
 ## <u>EDUCATION</u>
@@ -37,8 +40,8 @@ nav-menu: true
   - Relevant Coursework: Programming for Business Computing, Data Science Programming, R Language and Text Mining: An Application of Public Issues, Using R for Data Analysis, Administrative information Management, Statistics and Econometrics with Recitation, Macroeconomics, Microeconomics, Economics, Public Policy, Accounting
 				
 		
-</section>
 </div>
+</section>
 <div class="inner" markdown="1">
 <section id="PROFESSIONAL" >
 
