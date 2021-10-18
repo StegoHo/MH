@@ -5,7 +5,10 @@
 ///
 
 /* Main */
-
+	body {
+	    width: 95%;
+	    margin: auto;
+	}
 	#main {
 		background-color: _palette(bg-alt);
 
