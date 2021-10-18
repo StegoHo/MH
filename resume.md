@@ -10,7 +10,7 @@ nav-menu: true
 <div id="main">
     <div>
 	<section id="name" >
-		<div class="inner" markdown="1">
+	<div class="inner" markdown="1">
 		
 # <center>Meng-Hsuan Ho</center>
 
@@ -18,7 +18,7 @@ nav-menu: true
 - [Linkedin](www.linkedin.com/in/mh-ho)
 			
 		
-		</div>
+	</div>
 	</section>
     </div>
 	<section id="EDUCATION">
