@@ -14,7 +14,7 @@ nav-menu: true
 		
 # <center>Meng-Hsuan Ho</center>
 - [Website](https://stegoho.github.io/MH/)
-- [Linkedin](www.linkedin.com/in/mh-ho)
+- [Linkedin](https://www.linkedin.com/in/mh-ho/)
 
 
 </div>	
