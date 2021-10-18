@@ -8,14 +8,16 @@ nav-menu: true
 
 
 <div id="main">
-	<div class="inner" markdown="1">
-		<section id="name">
+	<div class="inner">
+		<section id="name" markdown="1">
 # <center>Meng-Hsuan Ho</center>
 
 - [Website](https://stegoho.github.io/MH/)
 - [Linkedin](www.linkedin.com/in/mh-ho)
+			
 		</section>
-		<section id="EDUCATION">
+		<section id="EDUCATION" markdown="1">
+			
 ## <u>EDUCATION</u>
 
 #### Arizona State University, Master of Science in Business Analytics (MSBA)
@@ -32,7 +34,7 @@ nav-menu: true
   - Relevant Coursework: Programming for Business Computing, Data Science Programming, R Language and Text Mining: An Application of Public Issues, Using R for Data Analysis, Administrative information Management, Statistics and Econometrics with Recitation, Macroeconomics, Microeconomics, Economics, Public Policy, Accounting
 			
 		</section>
-		<section id="PROFESSIONAL">
+		<section id="PROFESSIONAL" markdown="1">
 			
 ## <u>PROFESSIONAL EXPERIENCE</u>
 
@@ -53,7 +55,7 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Assisted and collaborated with others for international conference taken place in National Taiwan University
 			
 		</section>
-		<section id="PROJECT">
+		<section id="PROJECT"markdown="1">
 			
 ## <u>PROJECT EXPERIENCE</u>
 
@@ -75,7 +77,7 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Calculated distances of every customer to stores to research different types of customers in different stores
 
 		</section>
-		<section id="LEADERSHIP">
+		<section id="LEADERSHIP"markdown="1">
 			
 ## <u>LEADERSHIP AND COMMUNITY INVOLVEMENT</u>
 
@@ -87,7 +89,7 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Managed over 1 million NT dollar budget and solved matters from NTU’s students (33,000 in total)
 
 		</section>
-		<section id="SKILLS">
+		<section id="SKILLS"markdown="1">
 			
 ## <u>SKILLS & ACTIVITIES</u>
 
