@@ -8,17 +8,16 @@ nav-menu: true
 
 
 <div id="main">
-<section id="name" >
 <div class="inner" markdown="1">
+<section id="name" >
 		
 # <center>Meng-Hsuan Ho</center>
-
 - [Website](https://stegoho.github.io/MH/)
 - [Linkedin](www.linkedin.com/in/mh-ho)
-			
-</div>		
+
 </section>
-<div class="box" markdown="1">
+</div>		
+<div markdown="1">
 <section id="EDUCATION">
 	
 			
@@ -40,8 +39,8 @@ nav-menu: true
 		
 </section>
 </div>
-<section id="PROFESSIONAL" >
 <div class="inner" markdown="1">
+<section id="PROFESSIONAL" >
 
 ## <u>PROFESSIONAL EXPERIENCE</u>
 
@@ -61,10 +60,11 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Represented my school to receive and assist professors and guests from all over the world
  - Assisted and collaborated with others for international conference taken place in National Taiwan University
 		
-</div>	
 </section>
+</div>
+<div class="inner" markdown="1">
 <section id="PROJECT" >
-<div class="inner" markdown="1">	
+	
 
 ## <u>PROJECT EXPERIENCE</u>
 
@@ -85,10 +85,11 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Integrated customers data with government’s data such as region’s income median to learn possibilities of success in each region
  - Calculated distances of every customer to stores to research different types of customers in different stores
 			
-</div>	
 </section>
+</div>
+<div class="inner" markdown="1">
 <section id="LEADERSHIP" >
-<div class="inner" markdown="1">	
+	
 			
 ## <u>LEADERSHIP AND COMMUNITY INVOLVEMENT</u>
 
@@ -99,10 +100,11 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Led a 15 people team to hold several extra-curricular activities (the movie festival has four-fold increase in participators than last year)
  - Managed over 1 million NT dollar budget and solved matters from NTU’s students (33,000 in total)
 
-</div>	
 </section>
+</div>
+<div class="inner" markdown="1">
 <section id="SKILLS" >
-<div class="inner" markdown="1">	
+	
 			
 ## <u>SKILLS & ACTIVITIES</u>
 
@@ -112,6 +114,6 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Technical Skills: Customer Segmentation Analysis, Geospatial Analysis, Visualization, Machine Learning
  - Interests: Photography, Baseball, Hiking
 	
-</div>	
 </section>
+</div>
 </div>
