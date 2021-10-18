@@ -7,8 +7,9 @@ nav-menu: true
 ---
 
 
+<!-- One -->
 <div id="main">
-<section id="one">
+	<div class="inner">
 # <center>Meng-Hsuan Ho</center>
 
 - [Website](https://stegoho.github.io/MH/)
@@ -83,5 +84,5 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Technical Skills: Customer Segmentation Analysis, Geospatial Analysis, Visualization, Machine Learning
  - Interests: Photography, Baseball, Hiking
 
-  </section>
   </div>
+</div>
