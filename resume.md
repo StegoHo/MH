@@ -7,18 +7,17 @@ nav-menu: true
 ---
 
 
-<div id="main" class="inner">
+<div id="main">
 <section id="name" >
-<div class="box" markdown="1">
+<div class="inner" markdown="1">
 		
 # <center>Meng-Hsuan Ho</center>
 
 - [Website](https://stegoho.github.io/MH/)
 - [Linkedin](www.linkedin.com/in/mh-ho)
 			
-		
+</div>		
 </section>
-</div>
 <div class="box" markdown="1">
 <section id="EDUCATION">
 	
