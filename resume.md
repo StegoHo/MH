@@ -9,14 +9,18 @@ nav-menu: true
 
 <div id="main">
 	<div class="inner">
-		<section id="name" markdown="1">
+		<section id="name" >
+			<div markdown="1">
 # <center>Meng-Hsuan Ho</center>
 
 - [Website](https://stegoho.github.io/MH/)
 - [Linkedin](www.linkedin.com/in/mh-ho)
 			
+		
+			</div>
 		</section>
-		<section id="EDUCATION" markdown="1">
+		<section id="EDUCATION">
+			<div markdown="1">
 			
 ## <u>EDUCATION</u>
 
@@ -32,10 +36,11 @@ nav-menu: true
 
   - Minor in Economics
   - Relevant Coursework: Programming for Business Computing, Data Science Programming, R Language and Text Mining: An Application of Public Issues, Using R for Data Analysis, Administrative information Management, Statistics and Econometrics with Recitation, Macroeconomics, Microeconomics, Economics, Public Policy, Accounting
-			
+				
+			</div>	
 		</section>
 		<section id="PROFESSIONAL" markdown="1">
-			
+			<div markdown="1">
 ## <u>PROFESSIONAL EXPERIENCE</u>
 
 #### Data Analyst, WELLTECH SEMICONDUCTOR INC
@@ -53,10 +58,11 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
 
  - Represented my school to receive and assist professors and guests from all over the world
  - Assisted and collaborated with others for international conference taken place in National Taiwan University
-			
+		
+			</div>	
 		</section>
-		<section id="PROJECT"markdown="1">
-			
+		<section id="PROJECT">
+			<div markdown="1">		
 ## <u>PROJECT EXPERIENCE</u>
 
 #### Dashboard Building
@@ -75,10 +81,10 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Collected region density of customers to characterize each store’s trait and distinguish potential new location
  - Integrated customers data with government’s data such as region’s income median to learn possibilities of success in each region
  - Calculated distances of every customer to stores to research different types of customers in different stores
-
+			</div>	
 		</section>
-		<section id="LEADERSHIP"markdown="1">
-			
+		<section id="LEADERSHIP">
+			<div markdown="1">	
 ## <u>LEADERSHIP AND COMMUNITY INVOLVEMENT</u>
 
 #### Minister of Cultural Affair, National Taiwan University Student Association
@@ -87,10 +93,10 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
 
  - Led a 15 people team to hold several extra-curricular activities (the movie festival has four-fold increase in participators than last year)
  - Managed over 1 million NT dollar budget and solved matters from NTU’s students (33,000 in total)
-
+			</div>	
 		</section>
-		<section id="SKILLS"markdown="1">
-			
+		<section id="SKILLS">
+			<div markdown="1">		
 ## <u>SKILLS & ACTIVITIES</u>
 
  - Competition: Humana-Mays Healthcare Analytics Case Competition Top 50
@@ -98,6 +104,7 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Computer Skills: Python (Pandas, Folium, SKLearn, Seaborn, Bokeh, Selenium), R, Microsoft Office
  - Technical Skills: Customer Segmentation Analysis, Geospatial Analysis, Visualization, Machine Learning
  - Interests: Photography, Baseball, Hiking
+			</div>	
 		</section>
   </div>
 </div>
