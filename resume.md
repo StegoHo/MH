@@ -110,5 +110,4 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Interests: Photography, Baseball, Hiking
 		</div>	
 	</section>
-  </div>
 </div>
