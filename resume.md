@@ -6,8 +6,9 @@ image: assets/images/DSC_4542.jpg
 nav-menu: true
 ---
 
-Résumé (n.) a short written description of myself
 
+<div id="main">
+<section id="one">
 # <center>Meng-Hsuan Ho</center>
 
 - [Website](https://stegoho.github.io/MH/)
@@ -81,3 +82,6 @@ WELLTECH SEMICONDUCTOR INC owns MAMAFISCH supermarket, a food-processing factory
  - Computer Skills: Python (Pandas, Folium, SKLearn, Seaborn, Bokeh, Selenium), R, Microsoft Office
  - Technical Skills: Customer Segmentation Analysis, Geospatial Analysis, Visualization, Machine Learning
  - Interests: Photography, Baseball, Hiking
+
+  </section>
+  </div>
