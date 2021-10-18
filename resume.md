@@ -8,8 +8,9 @@ nav-menu: true
 
 
 <div id="main">
+    <div>
 	<section id="name" >
-		<div class="inner" classmarkdown="1">
+		<div class="inner" markdown="1">
 		
 # <center>Meng-Hsuan Ho</center>
 
@@ -19,6 +20,7 @@ nav-menu: true
 		
 		</div>
 	</section>
+    </div>
 	<section id="EDUCATION">
 		<div class="inner" markdown="1">
 			
