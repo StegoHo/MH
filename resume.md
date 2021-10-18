@@ -8,7 +8,6 @@ nav-menu: true
 
 
 <div id="main">
-    <div>
 	<section id="name" >
 	<div class="inner" markdown="1">
 		
@@ -18,9 +17,8 @@ nav-menu: true
 - [Linkedin](www.linkedin.com/in/mh-ho)
 			
 		
-	</div>
 	</section>
-    </div>
+    	</div>
 	<section id="EDUCATION">
 	<div class="inner" markdown="1">
 			
