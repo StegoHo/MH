@@ -12,11 +12,11 @@ Data Dashboard is essential for decision making. It offers up-to-date trend and 
 
  
 
-An easy example would be showed below using TSMC’s stock price in Taiwan stock market. Since I want to use the full time series on the price chart, the absence of price between days would be the time that the stock market isn’t open here (could be national holidays or weekend).
+An easy example would be shown below using TSMC’s stock price in Taiwan stock market. Since I want to use the full time series on the price chart, the absence of price between days would be the time that the stock market isn’t open here (could be national holidays or weekend).
 
  
 
-Besides chart, there are lots of interactive buttons and functions that can be served. Users can then change chart or gather information from the period that they are interested in. 
+Besides chart, there are lots of interactive buttons and functions that can be served. Users can then change chart or gather information from the period that they are interested in. When hovering over bars on charts, users could see the pop-up information which is quite convenient.
 
  
 
