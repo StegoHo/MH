@@ -9,7 +9,7 @@ nav-menu: true
 
 <!-- One -->
 <div id="main">
-	<div class="inner">
+	<div class="inner" markdown="1">
 # <center>Meng-Hsuan Ho</center>
 
 - [Website](https://stegoho.github.io/MH/)
