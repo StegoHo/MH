@@ -8,7 +8,19 @@ show_tile: true
 ---
 <div id="main">
 	<div class="inner" markdown="1">
-  
+ 
+Old Vegas. <br />
+![oldvegas](/assets/images/_DSC0641.jpg){:width="1000px"}
+		
+Vegas. <br />
+![vegas](/assets/images/_DSC0446.jpg){:width="1000px"}
+
+Badwater Basin in Death Valley. <br />
+![badwaterbasin](/assets/images/_DSC0443.jpg){:width="1000px"}
+		
+Inside of The Venetian Resort, Las Vegas. <br />
+![venetian](/assets/images/_DSC0556.jpg){:width="1000px"}
+
 Shot on the A Mountain in the ASU. <br />
 ![amountain](/assets/images/DSC_8479.jpg){:width="1000px"}
 
