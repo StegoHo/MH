@@ -7,7 +7,7 @@ image:
 
 Geospatial Data could come in handy when dealing with B2C corporations. Lots of companies possess geodata such as zip codes, addresses, or even GPS data from electronic devices. Hence, utilizing the data could be the key to understanding the pros and cons for the business.
 
-Several kinds of visualization could be performed to assist when making decision. However, beforehand, there is some data transformation that needs to be done. Addresses should translate into latitude and longitude for projections on the map. Among all the method, I would recommend using Google API geocoding which converts addresses to geographic coordinates costing 5 dollars per thousand requests. There’s also chances that it could be free if the monthly charges are below 200. 
+Several kinds of visualization could be performed to assist when making decision. However, beforehand, there is some data transformation that needs to be done. Addresses should be translate into latitude and longitude for projections on the map. Among all the method, I would recommend using Google API geocoding which converts addresses to geographic coordinates costing 5 dollars per thousand requests. There’s also chances that it could be free if the monthly charges are below 200. 
 
 The code will look like this:
 
