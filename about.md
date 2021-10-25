@@ -17,7 +17,7 @@ show_tile: true
 		<header class="major">
 			<h2>Me</h2>
 		</header>
-		<p>Hi! My name is Meng-Hsuan Ho and I'm from Tawian. You could call me Stego [stay-go] if you find it easier to pronouce. I'm currently studying Business Analytics for Master in Arizona State University, looking forward to becoming a Data Analyst one day. Feel free to message me from the box below to talk about anything interesting.</p>
+		<p>Hi, I’m Meng-Hsuan Ho, or you can call me Stego [Stay-go]. I am from Taiwan and currently pursuing my Master degree in Business Analytics in Arizona State University. “Passionate” & “bold to step out of the comfort zone” are captions that highlight my personality, and they also help navigate my future career aspiration as a Data Analyst. Feel free to reach me via the box below. Let’s exchange something interesting and crazy!</p>
 	</div>
 </section>
 
@@ -32,10 +32,10 @@ show_tile: true
 				<header class="major">
 					<h3>Something about me</h3>
 				</header>
-				<p>I like to watch baseball. The interest starts when a Taiwanese pitcher, Chien-Ming Wang shines for a couple years in MLB. Instead of playing it, I prefer to watch it and analyze it through data. 
+				<p>Baseball is my intitial interest in data. I like to think that each ball pitched is independent and identically distributed, so all the statisitcs and econometrics would come to work.
 				</p>
 				<p>
-				Also, I like to explore and record things through camera. Sometimes, I go hiking or go to ruins to search for ideas for pictures. I filmed all the photos posted on this website, mostly about landscape, still working on portrait though.
+				Also, I like to explore and record things through camera. Sometimes, I go hiking or to ruins to search for ideas for pictures. All the photos, mostly about landscape, posted on this website are my perception of pictures.
 				</p>
 				<ul class="actions">
 					<li><a href="resume.html" class="button">For more proficient side of me</a></li>
