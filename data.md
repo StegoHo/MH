@@ -139,7 +139,7 @@ for i, column in enumerate(time_col, 1):
 #axes.flat[-1].set_visible(False)
 plt.show()
 ```
-
+![Time Distribution chart](assets/images/Time Dist.jpg)
 </div>
 </section>
 </div>
