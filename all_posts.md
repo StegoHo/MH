@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All Posts
-landing-title: All Posts
+title: Projects
+landing-title: Projects
 nav-menu: true
 description: Some of my projects and works
 image: assets/images/DSC_3790.jpg
