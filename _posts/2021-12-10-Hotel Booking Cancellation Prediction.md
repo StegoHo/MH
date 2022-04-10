@@ -1,7 +1,9 @@
+---
 layout: page
 title: Hotel Booking Cancellation Prediction
 description: Hotel Booking Cancellation Prediction
-image: 
+image:
+---
 
 
 
